@@ -1,0 +1,17 @@
+.myClass {
+  padding: 2em;
+  border: 1px solid #151719;
+  background-color: #151719;
+  /* color: aliceblue; */
+  margin-top: 8%;
+}
+body {
+  background-color: #fff;
+  font-family: sans-serif;
+}
+.heading {
+  margin-top: 5%;
+  font-size: 40px;
+  font-weight: 700;
+  /* color: rgb(6, 11, 16); */
+}
