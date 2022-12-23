@@ -2,7 +2,7 @@
   padding: 2em;
   border: 1px solid #151719;
   background-color: #151719;
-  /* color: aliceblue; */
+  color: aliceblue;
   margin-top: 8%;
 }
 body {
@@ -13,5 +13,5 @@ body {
   margin-top: 5%;
   font-size: 40px;
   font-weight: 700;
-  /* color: rgb(6, 11, 16); */
+  color: rgb(6, 11, 16);
 }
